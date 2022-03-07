@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Harbir66&theme=tokyonight&backgroud=50,141E30,243B55&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></p>
+ <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=Harbir66&theme=tokyonight&backgroud=50,141E30,243B55&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></p>
 <!--
 **Harbir66/Harbir66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
