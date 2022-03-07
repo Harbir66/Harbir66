@@ -1,7 +1,5 @@
 ### Hi there 👋
-<p>
-<img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=Harbir66&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD802B" />
-</p>
+
 <!--
 **Harbir66/Harbir66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+<img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=Harbir66&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD802B" />
+</p>
 <p>
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harbir66&layout=compact&theme=tokyonight&bg_color=50,141E30,243B55" />
 </p>
