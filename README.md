@@ -5,7 +5,7 @@
 
 <p align="center"><img width="55%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harbir66&theme=tokyonight&fire=e25822" alt="Harbir" /></p>
 
-Myself Harbir Singh, I am an undergrad at TIET, Patiala. 
+Myself Harbir Singh, I am an undergrad at TIET, India. 
 - 🔭 I’m currently working on Image Processing
 - 🌱 I’m currently learning CNN
 - 🤔 I’m looking for help with DSA
