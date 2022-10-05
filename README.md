@@ -6,8 +6,7 @@
 <p align="center"><img width="55%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harbir66&theme=tokyonight&fire=e25822" alt="Harbir" /></p>
 
 Myself Harbir Singh, I am an undergrad at TIET, India. 
-- 🔭 I’m currently working on Image Processing
-- 🌱 I’m currently learning CNN
+- 🔭 I’m currently working on Image Processing<!-- - 🌱 I’m currently learning CNN -->
 - 🤔 I’m looking for help with DSA
 - 📫 How to reach me: harbir066@gmail.com
 - ⚡ Fun fact: <a href="https://thispersondoesnotexist.com/" >This person</a> does not exist!
